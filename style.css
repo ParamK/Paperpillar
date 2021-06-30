@@ -739,6 +739,11 @@ li.nav-item.modal-item {
   font-weight: 500;
 }
 
+@media (max-width: 992px) {
+  .works-desc h3 {
+    font-size: 28px;
+}
+}
 .works-img-lifecycle {
   text-align: center;
   border: none;
