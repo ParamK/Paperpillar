@@ -742,6 +742,9 @@ li.nav-item.modal-item {
 @media (max-width: 992px) {
   .works-desc-lifecycle h3 {
     font-size: 28px;
+  }
+.works-desc-lifecycle{
+  padding: 48px 56px;
 }
 }
 .works-img-lifecycle {
